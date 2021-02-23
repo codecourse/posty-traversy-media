@@ -8,3 +8,19 @@ Feel free to use this code however you like!
 
 * [Codecourse](https://codecourse.com)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+
+# Setup
+
+Install `composer` and `npm` package dependencies and migrate database.
+
+```bash
+composer install && npm install && php artisan migrate:fresh
+```
+
+# Run
+
+Run app on local machine.
+
+```bash
+php artisan serve
+```
