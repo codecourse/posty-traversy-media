@@ -14,7 +14,7 @@ Feel free to use this code however you like!
 Install `composer` and `npm` package dependencies and migrate database.
 
 ```bash
-composer install && npm install && php artisan migrate:fresh
+composer install && npm install && php artisan migrate
 ```
 
 # Run
