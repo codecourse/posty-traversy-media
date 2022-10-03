@@ -7,4 +7,5 @@ Feel free to use this code however you like!
 # Links
 
 * [Codecourse](https://codecourse.com)
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [Traversy Media Youtube Link](https://www.youtube.com/user/TechGuyWeb)
+* [Traversy Media Website Link](https://www.traversymedia.com/)
